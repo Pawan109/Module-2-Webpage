@@ -35,16 +35,16 @@ section>h2 {
 }
 
 section.Acoustic>h2 {
-    background-color: #ff751a;
+    background-color: #ff9900;
 }
 
 section.Electric>h2 {
-    background-color: #e6e600;
+    background-color: #ff9900;
 }
 
 section.Bass>h2 {
     color: #e2e2e2;
-    background-color: #ffa31a;
+    background-color: #ff9900;
 }
 
 section>p {
